@@ -2,7 +2,7 @@
 Crispy Doom Port for MacOS.
 
 ### Downloads
-You can download the latest version of the launcher [here](https://github.com/foxxgaming/CrispyDoomMac/releases/tag/2.0.0)
+You can download the latest version of the launcher [here](https://github.com/foxxgaming/CrispyDoomMac/releases/latest)
 
 ### Dependencies
 
