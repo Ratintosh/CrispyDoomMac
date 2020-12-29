@@ -1,6 +1,8 @@
 # CrispyDoomMac
 Crispy Doom Port for MacOS.
+
 (If you need support you can contact me on Discord via SpaceRat#6734)
+
 *Tested on MacOS 10.15 Catalina*
 
 ### Downloads
