@@ -4,23 +4,12 @@ Crispy Doom Port for MacOS.
 ### Downloads
 You can download the latest version of the launcher [here](https://github.com/foxxgaming/CrispyDoomMac/releases/latest)
 
-### Dependencies
+It **should** run straight out of the box without installing any extra dependencies, but if it doesn't you can install version 2.0.0 [here](https://github.com/foxxgaming/CrispyDoomMac/wiki/Downloading-Version-2.0.0)
 
-You'll need some dependencies to get this running properly. 
+The wiki contains a small little tutorial on how to install 2.0.0 properly to get you on your feet.
 
-#### Homebrew
 
-You'll need some dependencies to get this running properly. In order to install these dependencies you'll need [Homebrew](https://brew.sh/).
-
-Just paste 
-``/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"``
-into a new terminal window and wait for it to finish, then move on to the next step.
-
-#### Crispy Doom Dependencies
-Paste ``brew install flac; brew install libogg; brew install libpng; brew install libsamplerate; brew install SDL2; brew install sdl_net; brew install sdl2_mixer; brew install sdl2_net; brew install libvorbis; brew install libvorbisfile; brew install ffmpeg;`` into Terminal to install every dependency.
-
-#### Thats it! Happy gibbing!
-
+**If by any means version 2.0.5 doesn't work, please let me know by creating a new issue.**
 
 **Disclaimer: I do not own any rights to Crispy Doom. All rights belong to its rightful owner.**
 
