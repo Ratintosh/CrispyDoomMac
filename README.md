@@ -1,5 +1,6 @@
 # CrispyDoomMac
 Crispy Doom Port for MacOS.
+*Tested on MacOS 10.15 Catalina*
 
 ### Downloads
 You can download the latest version of the launcher [here](https://github.com/foxxgaming/CrispyDoomMac/releases/latest)
