@@ -1,6 +1,6 @@
 # CrispyDoomMac
 Crispy Doom Port for MacOS.
-
+(Forked from [crispy-doom](https://github.com/chocolate-doom/chocolate-doom) which is a fork of [chocolate-doom](https://github.com/chocolate-doom/chocolate-doom)
 (If you need support you can contact me on Discord via SpaceRat#6734)
 
 *Tested on MacOS 10.15 Catalina*
